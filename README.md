@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ##Deployment
 
-This is a blablabla
+This is a blablabla. All rights reserved
